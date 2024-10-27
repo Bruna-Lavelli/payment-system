@@ -100,6 +100,9 @@ Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
 
 
 
-<!-- Para rodar a aplicação, use os seguintes comandos:
+Para rodar a aplicação no docker, use os seguintes comandos:
 - docker-compose -f docker-rabbit.yml up -d
-- docker-compose -f docker-postgres.yml up -d  -->
+- docker-compose -f docker-postgres.yml up -d 
+
+Para executar:
+- npm run start:dev
